@@ -27,7 +27,7 @@ body{
     margin: 20px auto;
 }
 .p3{
-    color: #c7c7c7;
+    color: white;
     margin-bottom:  -5px auto; 
 }
 .col-div-4{
@@ -39,8 +39,8 @@ body{
     float:left;
 }
 .line{
-    border-left: 1px solid #c7c7c7;
-    height:800px;
+    border-left: 1px solid white;
+    height:700px;
     width:2%;
     margin-top: 30px;
     float:left;
@@ -55,7 +55,7 @@ body{
     color : purple ;
 }
 .fa{
-    color:#c7c7c7;
+    color:white;
 }
 .skills{
     margin-left: -20px;
@@ -65,13 +65,19 @@ body{
     padding : 5px;
 }
 .skills li span{
-    color:#c7c7c7;
+    color:white;
 }
 .p-4{
     font-size: 14px;
-    color:#c7c7c7
+    color: white ;
 }
 li
 {
 color : white ;
+}
+.bo{
+border-radius: 20%;
+color: purple;
+background-color: white;
+align-items: center;
 }
