@@ -15,8 +15,8 @@ body
 }
 .main
 {
-    background-color :black;
-    color: antiquewhite;
+    background-color :hotpink;
+    color: black;
 }
 .t1
 {
@@ -24,13 +24,13 @@ body
 }
 tr
 {
-    border: 2px solid black;
+    border: 2px solid hotpink;
     font-size: larger;
 }
 th
 {
     border: 2px solid black;
-    border-color: black;
+    border-color: hotpink;
 }
 td
 {
