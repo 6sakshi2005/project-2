@@ -1,7 +1,7 @@
 body
 {
     background-color:black;
-    color :hotpink ;
+    color :rgb(172, 16, 94) ;
 }
 .pd
 {
@@ -15,7 +15,7 @@ body
 }
 .main
 {
-    background-color :hotpink;
+    background-color :rgb(172, 16, 94);
     color: black;
 }
 .t1
@@ -24,13 +24,13 @@ body
 }
 tr
 {
-    border: 2px solid hotpink;
+    border: 2px solid rgb(172, 16, 94);
     font-size: larger;
 }
 th
 {
     border: 2px solid black;
-    border-color: hotpink;
+    border-color: rgb(172, 16, 94);
 }
 td
 {
@@ -38,9 +38,21 @@ td
     border-color: black;
 }
 .line{
-    border-left: 1px solid #89116b;
+    border-left: 1px solid rgb(172, 16, 94);
     height:400px;
     width:2%;
     margin-top: 30px;
     float:left;
+}
+video{
+    border:2px double rgb(172, 16, 94);
+    padding:20px;
+}
+.image{
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.image2{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
