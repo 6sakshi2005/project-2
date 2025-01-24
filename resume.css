@@ -10,7 +10,7 @@ body{
     margin: 20px auto;
 }
 .top-section{
-    background-color:rgb(172, 16, 94);
+    background-color:#f90077;
     text-align: center;
     padding: 20px;
     margin: 15px auto;
@@ -52,7 +52,7 @@ body{
     font-size: 20px;
     text-transform: uppercase;
     font-weight: bold;
-    color : rgb(172, 16, 94) ;
+    color : #f90077 ;
 }
 .fa{
     color:white;
@@ -77,11 +77,14 @@ color : white ;
 }
 .bo{
 border-radius: 20%;
-color: rgb(172, 16, 94);
+color: #f90077;
 background-color: black;
 align-items: center;
 }
 button:hover{
-    background-color: rgb(172, 16, 94);
+    background-color: #f90077;
     color:black;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    transition: 1s;
 }

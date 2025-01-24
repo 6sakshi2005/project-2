@@ -1,0 +1,76 @@
+#main{
+    height: 500px;
+    width:70%;
+    background-color: #f90077;
+    margin: 120px auto;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    transition: 2s;
+}
+#main:hover{
+    box-shadow:4px 4px 16px black;
+    transition: 2s;
+}
+#main2{
+    height: 80%;
+    width:90%;
+    background-color:#b7045b;
+    margin: 10px 50px 50px 50px ;
+}
+body{
+    background-image: url("background.jpg");
+}
+#one{
+    height: 80%;
+    width:45%;
+    background-color: pink;
+    display: inline-block;
+    margin-top: 35px;
+    color: #E90074;
+    transition: 3s;
+}
+#two{
+    height: 80%;
+    width:45%;
+    background-color: pink;
+    display: inline-block;
+    margin-top: 35px;
+    color: #E90074;
+    transition: 3s;
+}
+#one:hover{
+    height: 80%;
+    width:45%;
+    background-color: rgb(126, 122, 122);
+    display: inline-block;
+    margin-top: 35px;
+    transition: 3s;
+    box-shadow: 4px 4px 16px black;
+    color: black;
+}
+#two:hover{
+    height: 80%;
+    width:45%;
+    background-color: rgb(126, 122, 122);
+    display: inline-block;
+    margin-top: 35px;
+    transition: 3s;
+    box-shadow: 4px 4px 16px black;
+    color: black;
+}
+.content{
+    color:pink;
+    height:78% ;
+    width:100%;
+    margin: auto;
+}
+.content:hover{
+    color:black;
+    transition: 2s;
+}
+.btn{
+    color:pink;
+    background-color: pink;
+    border:none;
+}
